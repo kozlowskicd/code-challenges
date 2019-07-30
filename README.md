@@ -1,6 +1,12 @@
 # Code Challenges
 A collection of challenges completed in JavaScript.
 
+Each challenge contains a coded solution and a README with a description of the challenge, the approach taken to solve it, and an analysis of the space/time complexity of the given solution.
+
+Tests are included for all solutions.  Test results may be viewed on TravisCI.
+
+[Click here to view all test results](https://travis-ci.com/kozlowskicd/code-challenges)
+
 <hr>
 
 ## Objects
@@ -24,11 +30,11 @@ A collection of challenges completed in JavaScript.
 
 ## Linked Lists
 
-<!-- * [Merge Two Linked Lists](./challenge/llMerge/README.md) -->
+* [Merge Two Linked Lists](./challenges/llMerge/README.md)
 
 ## Stacks
 
-<!-- * [Queue with Stacks](./challenges/queue-with-stacks/README.md) -->
+* [Queue with Stacks](./challenges/queue-with-stacks/README.md)
 
 ## Queues
 
