@@ -1,4 +1,4 @@
-# Code Challenges
+# Code Challenges         [![Build Status](https://travis-ci.com/kozlowskicd/code-challenges.svg?branch=master)](https://travis-ci.com/kozlowskicd/code-challenges)
 A collection of challenges completed in JavaScript.
 
 Each challenge contains a coded solution and a README with a description of the challenge, the approach taken to solve it, and an analysis of the space/time complexity of the given solution.
