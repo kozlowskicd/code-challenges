@@ -1,4 +1,7 @@
 # Code Challenges
+A collection of challenges completed in JavaScript.
+
+<hr>
 
 ## Objects
 
@@ -22,20 +25,23 @@
 ## Linked Lists
 
 <!-- * [Merge Two Linked Lists](./challenge/llMerge/README.md) -->
+
 ## Stacks
 
 <!-- * [Queue with Stacks](./challenges/queue-with-stacks/README.md) -->
+
 ## Queues
 
+* [Queue - Animal Shelter MultiQueue](./challenges/animal-shelter/README.md)
 
-<!-- * [Queue - Animal Shelter MultiQueue](./challenges/animal-shelter/README.md) -->
 ## Trees
 
 * [Find Path Between Values](./challenges/find-path/README.md)
 * [Find All Tree Intersections](./challenges/tree-intersections/README.md)
-<!-- * [FizzBuzz](./challenges/fizzbuzz/README.md) -->
-<!-- * [Find Maximum Value](./challenges/find-max/README.md) -->
-<!-- * [Find Depth](./challenges/find-depth/README.md) -->
+* [FizzBuzz](./challenges/fizzbuzz/README.md)
+* [Find Maximum Value](./challenges/find-max/README.md)
+* [Find Depth](./challenges/find-depth/README.md)
+
 ## Graphs
 
 * [Are There Islands?](./challenges/are-there-islands/README.md)
